@@ -9,7 +9,7 @@
  * @author David J. Barnes and Michael Kölling
  * @version 7.0
  */
-public class TicketMachine
+  class TicketMachine
 {
     // The price of a ticket from this machine.
     private int price;
