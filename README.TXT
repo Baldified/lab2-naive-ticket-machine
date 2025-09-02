@@ -23,6 +23,6 @@ How to start this project: Create one or more TicketMachine objects.
     Q-  What happens if you insert too much money into the machine – do you receive any refund?      A- Nothing happens if you insert too much money into the machine. There is no refund and the remaining money just disappears as the balance value is reset to 0
     Q-  What happens if you do not insert enough and then try to print a ticket?       A- It still prints out a ticket without reaching the required price.
 
-
+5.  Q-  Does the printed ticket look any different from those printed by the first machine? If so, what is different?      A- The only difference between both tickets is the price of it.
 
 
