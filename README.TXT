@@ -37,3 +37,11 @@ How to start this project: Create one or more TicketMachine objects.
      Methods: getPrice, getBalance, insertMoney, printTicket
 
 11. The constructor shares the same name as their class and presets the initial values.
+
+12. 1- int
+    2- String
+    3- String
+
+13. 1- alive
+    2- tutor
+    3- game
