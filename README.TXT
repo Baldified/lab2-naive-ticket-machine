@@ -25,4 +25,7 @@ How to start this project: Create one or more TicketMachine objects.
 
 5.  Q-  Does the printed ticket look any different from those printed by the first machine? If so, what is different?      A- The only difference between both tickets is the price of it.
 
+7.  Q- Does it matter whether we write public class TicketMachine or class public TicketMachine in the outer wrapper of a class?     A- Yes, it matters a lot. The source code of the class starts after the word class is written down and public just modifies the privacy of it. Since public is a visibility modifier, writing it after class cancels out class making the outer wrapper of class to end there.
+    Q- Do you notice a change in the class diagram?      A- It stops working and counts as an error.
 
+8.  Q- Check whether or not it is possible to leave out the word public from the outer wrapper of the TicketMachine class.       A- It is definitely possible.
