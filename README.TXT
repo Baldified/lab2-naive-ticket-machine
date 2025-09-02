@@ -29,3 +29,11 @@ How to start this project: Create one or more TicketMachine objects.
     Q- Do you notice a change in the class diagram?      A- It stops working and counts as an error.
 
 8.  Q- Check whether or not it is possible to leave out the word public from the outer wrapper of the TicketMachine class.       A- It is definitely possible.
+
+9.  Q- Put back the word public, and then check whether it is possible to leave out the word class by trying to compile again.      A- No, it is not possible to leave out the word class because it is the base of the source code outer wrapper.
+
+10.  Fields: price, balance, total
+     Constructor: TicketMachine
+     Methods: getPrice, getBalance, insertMoney, printTicket
+
+11. The constructor shares the same name as their class and presets the initial values.
