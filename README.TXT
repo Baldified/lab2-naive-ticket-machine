@@ -53,3 +53,7 @@ How to start this project: Create one or more TicketMachine objects.
     It is not possible to modify private int price;
 
 16. Yes, it is always necessary to have a semicolon at the end of a field declaration.
+
+18. It belongs to the Student class.
+
+19. The following constructor has 2 parameters and their types are String and double
