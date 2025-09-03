@@ -45,3 +45,11 @@ How to start this project: Create one or more TicketMachine objects.
 13. 1- alive
     2- tutor
     3- game
+
+15. Doing private price int; doesn't work. It becomes an error.
+    Doing price private int; doesn't work. It becomes an error.
+    Doing int private price; doesn't work. It becomes an error.
+    Doing int price private; doesn't work. It becomes an error.
+    It is not possible to modify private int price;
+
+16. Yes, it is always necessary to have a semicolon at the end of a field declaration.
