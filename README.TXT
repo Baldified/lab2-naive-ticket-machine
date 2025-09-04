@@ -54,6 +54,10 @@ How to start this project: Create one or more TicketMachine objects.
 
 16. Yes, it is always necessary to have a semicolon at the end of a field declaration.
 
+18. Student class
+
+19. 2 parameters
+
 21. check Pet class
 
 22. check Date class
