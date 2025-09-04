@@ -86,3 +86,7 @@ How to start this project: Create one or more TicketMachine objects.
 36. If you change the parameter from cost to price and change the assignment to match it at price = price, the inspector will not understand the set value and keep it as price = 0.
 
 37. My cat has green eyes.
+
+39. It would print "# price cents." instead
+
+40. It will print "# price cents." 
