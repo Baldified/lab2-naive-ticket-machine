@@ -17,8 +17,6 @@
     private int balance;
     // The total amount of money collected by this machine.
     private int total;
-    
-    private int status;
 
     /**
      * Create a machine that issues tickets of the given price.
@@ -30,7 +28,6 @@
         price = cost;
         balance = 0;
         total = 0;
-        status = 0;
     }
 
     /**
