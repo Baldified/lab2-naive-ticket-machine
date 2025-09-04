@@ -54,3 +54,9 @@ How to start this project: Create one or more TicketMachine objects.
 
 16. Yes, it is always necessary to have a semicolon at the end of a field declaration.
 
+23. Header: The variable has a different name.
+    Body: The variable has a different name.
+
+24. How much money have I inserted
+
+25. The name of the accessor method is not associated to the name of the field. Only the name of the body of the method is associated to the name of the field.
