@@ -108,4 +108,12 @@
     {
         System.out.println("The price of a ticket is " + price + " cents.");
     }
+    
+    /**
+     * empty
+     */
+    public void empty()
+    {
+        total = 0;
+    } 
 }
