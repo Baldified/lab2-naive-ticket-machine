@@ -23,11 +23,9 @@
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
-    public TicketMachine(int price)
+    public TicketMachine()
     {
-        this.price = price;
-        balance = 0;
-        total = 0;
+        price = 1000;
     }
 
     /**
