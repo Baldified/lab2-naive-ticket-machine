@@ -53,6 +53,7 @@
     public void insertMoney(int amount)
     {
         balance = balance + amount;
+    
     }
 
     /**
@@ -74,5 +75,13 @@
         total = total + balance;
         // Clear the balance.
         balance = 0;
+    }
+    
+    /**
+     * total 
+     */
+    public int getTotal()
+    {
+        return total;
     }
 }
