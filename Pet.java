@@ -16,7 +16,7 @@ public class Pet
     public Pet(String petsName)
     {
         // initialise instance variables
-        petsName = name;
+        name = petsName;
     }
  
 }
