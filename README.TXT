@@ -60,3 +60,25 @@ How to start this project: Create one or more TicketMachine objects.
 24. How much money have I inserted
 
 25. The name of the accessor method is not associated to the name of the field. Only the name of the body of the method is associated to the name of the field.
+
+27. missing return statement.
+
+28. printTicket does not return a value whereas getPrice does.
+
+29. The insertMoney and printTicket do not have a return statement because they are void methods.
+
+31. /**
+    * Increase score by the given number of points.
+    */
+     public void increaseScore(int points)
+     {
+          score = points;
+     }
+
+33. /**
+    * Reduce price by the given amount.
+    */
+    public void discount(int amount)
+    {
+         price = price - amount;
+    }
