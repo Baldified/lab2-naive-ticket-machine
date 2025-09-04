@@ -102,3 +102,5 @@ How to start this project: Create one or more TicketMachine objects.
 42. The only difference between the outputs is the price of the ticket.
 
 43. printf method prints out the same output as println. %d means that it will insert the next argument as an integer value at this point and %n means 'end the line'.
+
+46. The empty method is a mutator method because it changes the state of the object by setting the total to 0.
