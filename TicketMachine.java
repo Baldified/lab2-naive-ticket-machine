@@ -23,11 +23,21 @@
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
+    public TicketMachine(int price)
+    {
+        this.price = price;
+        balance = 0;
+        total = 0;
+    }
+
+    /**
+     * no need to choose a price
+     */
     public TicketMachine()
     {
         price = 1000;
     }
-
+    
     /**
      * Return the price of a ticket.
      */
